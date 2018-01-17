@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\drcho_000\Downloads\Colorizer-master\Colorizer.iml" filepath="C:\Users\drcho_000\Downloads\Colorizer-master\Colorizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colorizer-master.iml" filepath="$PROJECT_DIR$/Colorizer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
